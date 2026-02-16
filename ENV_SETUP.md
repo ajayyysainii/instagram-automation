@@ -25,7 +25,7 @@ python instagram_scraper_business_indian.py skinkare 50
 
 ```env
 //if limit excessed, regenerate key and you are good to go!
-GEMINI_API_KEY="AIzaSyDjNPCWnU1vfuGFR8VLW71K4fyLYjadTQo"
+GEMINI_API_KEY=""
 // Optional: Set a custom URL for the default landing page
 DEFAULT_URL="https://tootler.ai/"
 
